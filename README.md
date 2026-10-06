@@ -22,7 +22,7 @@ This project recreates the basic layout and visual design of a Spotify web playe
 7.Featured Charts section
 8.Music player UI
 9.Playback progress bar
-10.Responsive layout for smaller screens
+
 
 🎯 Learning Goals
 Through this project, I practiced:
