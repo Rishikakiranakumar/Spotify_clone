@@ -275,7 +275,7 @@ a{
 .mobile-menu{
     display:none;
 }
-@media(max-width:1000px){
+@media(max-width:1200px){
     .hide{
         display:none;
     }
