@@ -1,7 +1,9 @@
 Spotify Clone 🎵
 
 A Spotify-inspired web player UI built using HTML and CSS,with a responsive layout for different screen sizes.
-Github Repository:https://github.com/Rishikakiranakumar/Spotify_clone
+
+💻 Github Repository:https://github.com/Rishikakiranakumar/Spotify_clone
+🔗 Live Link:https://rishikakiranakumar.github.io/Spotify_clone/
 
 
 📌 About the Project
